@@ -33,9 +33,9 @@ export default function PublicLayout() {
             <div>
               <h4 className="text-lg font-semibold mb-4">Quick Links</h4>
               <div className="space-y-2 text-sm">
-                <a href="/doctors" className="hover:text-blue-400 transition-colors">Doctors</a>
-                <a href="/book" className="hover:text-blue-400 transition-colors">Book Appointment</a>
-                <a href="/contact" className="hover:text-blue-400 transition-colors">Contact</a>
+                <a href="/doctors" className="hover:text-blue-400 transition-colors">Doctors<br/></a>
+                <a href="/book" className="hover:text-blue-400 transition-colors">Book Appointment<br/></a>
+                <a href="/contact" className="hover:text-blue-400 transition-colors">Contact<br/></a>
                 <a href="/login" className="hover:text-blue-400 transition-colors">Patient Portal</a>
               </div>
             </div>
